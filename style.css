@@ -1,0 +1,13 @@
+.container{
+
+    background-size: cover;
+    
+    background-color: aquamarine;
+    padding-left: 50px;
+    align-items: center;
+    border-style: solid;
+}
+li{
+    padding-left: 40px;
+}
+
